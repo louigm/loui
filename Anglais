@@ -1,1 +1,6 @@
-<div id="flashcards_view"></div>
+{
+  "name":"deck's name",
+  "cards":[{"front":"...", "back":"..."},
+            {"front":"...", "back":"..."},
+            ...]
+}
